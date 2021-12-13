@@ -3,7 +3,7 @@
 ### SUPERVISOR: DR. ABDUL HAFEEZ
 ### Project Members: Muhammd ijaz & Muhmmad jawad
 <hr>
-![Hill-Climb-Racing-3-cover](https://user-images.githubusercontent.com/75518471/145891792-08dec178-c68c-4de2-a39b-ef9fd5d87b04.jpg)
+
 
 <hr>
 
@@ -58,7 +58,9 @@ Note: we will discuss it with our supervisor then will look forward
 - Mysql databse
 
 ### Project boundary
-#### img
+
+![image](https://user-images.githubusercontent.com/75518471/145896064-f3e44bcf-e460-49b9-9555-7a8400d2a31b.png)
+
 <hr>
 There are a lot of games are around, which can automate to hand gestures control but we elect “Hill Climb Car Racing Game” because it’s available and run on any Android and OS devices and fixable with version control. There are two functionalities, to control the game,“gas” and break of a car.
 
