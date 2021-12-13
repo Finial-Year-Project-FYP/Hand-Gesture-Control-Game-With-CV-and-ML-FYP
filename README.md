@@ -2,10 +2,9 @@
 
 ### SUPERVISOR: DR. ABDUL HAFEEZ
 ### Project Members: Muhammd ijaz & Muhmmad jawad
-<hr>
 
+![playgrams](https://user-images.githubusercontent.com/75518471/145896420-9a24c762-00e8-4e45-930a-6498000ce316.jpg)
 
-<hr>
 
 ### Market problem:
 Keyboard is the static and traditional method to interact with computer and games, for which player need to sit on a chair at a corner in static position for long time. Which effect health, especially repetitive strain injury (R.S.I) and blood circulation due to sit on a place
