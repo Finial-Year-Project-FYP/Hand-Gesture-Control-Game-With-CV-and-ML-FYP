@@ -2,10 +2,10 @@
 
 ### SUPERVISOR: DR. ABDUL HAFEEZ
 ### Project Members: Muhammd ijaz & Muhmmad jawad
-#
+
 ![playgrams](https://user-images.githubusercontent.com/75518471/145896420-9a24c762-00e8-4e45-930a-6498000ce316.jpg)
 
-#
+
 ### Market problem:
 Keyboard is the static and traditional method to interact with computer and games, for which player need to sit on a chair at a corner in static position for long time. Which effect health, especially repetitive strain injury (R.S.I) and blood circulation due to sit on a place
 for long time in static position.
@@ -65,11 +65,9 @@ Note: we will discuss it with our supervisor then will look forward
 - Mysql databse
 
 ### Project boundary
-#
 
 ![image](https://user-images.githubusercontent.com/75518471/145896064-f3e44bcf-e460-49b9-9555-7a8400d2a31b.png)
 
-#
 There are a lot of games are around, which can automate to hand gestures control but we elect “Hill Climb Car Racing Game” because it’s available and run on any Android and OS devices and fixable with version control. There are two functionalities, to control the game,“gas” and break of a car.
 
 With computer vision, we will add another feature. We will assign, and train our model on a specific hand gesture (victory or like sign) to collect player game score (car distance travel) and store it in the database.
@@ -80,14 +78,12 @@ With computer vision, we will add another feature. We will assign, and train our
 Media Pipe is a cross-platform framework, which we will use for humanbodytracking.
 
 ![media pipe hand gesture](https://user-images.githubusercontent.com/75518471/145894618-f1b3ce57-ba71-4d3d-acd2-df79b9430252.png)
-#
+
 
 With media pipe, we can track fingers upper landmarks (4, 8, 12, 16,
 20) and middle landmarks (6, 10, 14, 19). Middle landmarks will be
 focus points. In fist (✊) shape upper landmarks comes down of focus
 point, which will be use for brick and vice versa.
-
-#
 
 ![image](https://user-images.githubusercontent.com/75518471/145895060-a6b05eff-3640-4395-832d-b107642f51e2.png)
 
@@ -105,7 +101,6 @@ will feed to ML model to production score for next match.
 ### Project Milestones:
 <img width="576" alt="chart" src="https://user-images.githubusercontent.com/75518471/145895511-a73cdb36-e801-4f7d-bf97-67b98116b6cf.png">
 
-#
 ### Milestones:
 -  Gather dependencies + hand tracking
 -  Gesture recognitions model + deploy model on game
@@ -131,7 +126,6 @@ increment will start.
 
 ### Relevant Reference
 ![image](https://user-images.githubusercontent.com/75518471/145895579-fa69c8ce-9e71-413d-8e5d-8b14342cfdc8.png)
-#
 
 ###### This idea is pick from virtual reality game movie “Ready Player One”.
 In “Ready player one” there are a few different ways that players manage to walk and run through virtual reality, while staying in place in the real world. Wadeuses an omni In “Ready player one” there are a few different ways that players manage to walk and run through virtual reality, while staying in place in the real world. Wadeuses an omni allows him to travel in 360 degrees, at any speed he likes.
