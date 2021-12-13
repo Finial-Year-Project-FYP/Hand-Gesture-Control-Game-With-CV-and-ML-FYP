@@ -1,1 +1,1 @@
-# Gesture-control-game-with-CV-and-ML
+# Hand Gesture Control Game With CV and ML (FYP)
