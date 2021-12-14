@@ -94,7 +94,8 @@ With media pipe, we can track fingers upper landmarks (4, 8, 12, 16,
 focus points. In fist (✊) shape upper landmarks comes down of focus
 point, which will be use for brick and vice versa.
 
-![image](https://user-images.githubusercontent.com/75518471/145895060-a6b05eff-3640-4395-832d-b107642f51e2.png)
+![The-proposed-scheme-for-dynamic-hand-gesture-spotting](https://user-images.githubusercontent.com/75518471/145942587-9666ab85-7605-490f-99ed-69de50de98d7.png)
+
 
 According to above diagram, we will convert images into binary digits with the help of Numpy library. We will feed that binary image to Tenserflow trained model to extract and recognize the hand gesture and convert it into keyboards commands.
 #
