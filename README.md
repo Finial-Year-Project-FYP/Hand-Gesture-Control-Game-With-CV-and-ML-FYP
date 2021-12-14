@@ -1,6 +1,6 @@
 # Hand Gesture Control Game With CV & ML
 
-### SUPERVISOR: DR. ABDUL HAFEEZ
+### Supervisor: Dr. Abdul Hafeez
 ### Project Members: Muhammd ijaz & Muhmmad jawad
 
 ![fig-5-full](https://user-images.githubusercontent.com/75518471/145942424-2eed386c-66f3-4f40-b63a-b10e8928989d.png)
