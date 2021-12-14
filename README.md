@@ -36,8 +36,8 @@ Besides that, dynamic physical interaction make the game more interesting and ef
 - Dynamic physical interaction with pc
 - no need of extra hardware
 - less cost effective
-![start to play with gestures](https://user-images.githubusercontent.com/75518471/145939338-8fa1ed87-2334-46e1-a2e9-aea43a8756b3.png)
 
+![Webp net-resizeimage](https://user-images.githubusercontent.com/75518471/145939994-86f1d4a6-fe0d-4bb5-bb03-74cc7c6fe99f.png)
 
 #
 
