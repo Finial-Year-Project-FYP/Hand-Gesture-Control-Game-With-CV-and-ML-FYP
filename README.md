@@ -18,6 +18,10 @@ Besides that, often typing mistakes make the reason of game over. Which is bad e
 - Load on system and consume device charge
 - keys loss functionality, stack or hard to press
 - Miss use can lead us to repair (laptop keyboard)
+
+![two images to stop with keyboard](https://user-images.githubusercontent.com/75518471/145939296-9791f9ba-4b1f-40be-8dea-ec7713f8dada.jpg)
+
+
 #
 ### Problem Solution:
 We create dynamic web cam hand tracking system, with help of player could control the game dynamic with body motion (gestures), which can be perform on chair or in a standing position.it not only protect health from damage but as long as player play the game, will get physical exercise.
@@ -32,6 +36,9 @@ Besides that, dynamic physical interaction make the game more interesting and ef
 - Dynamic physical interaction with pc
 - no need of extra hardware
 - less cost effective
+![start to play with gestures](https://user-images.githubusercontent.com/75518471/145939338-8fa1ed87-2334-46e1-a2e9-aea43a8756b3.png)
+
+
 #
 
 ### Possible Improvement
