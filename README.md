@@ -89,15 +89,16 @@ With computer vision, we will add another feature. We will assign, and train our
 Media Pipe is a cross-platform framework, which we will use for humanbodytracking.
 
 ![media pipe hand gesture](https://user-images.githubusercontent.com/75518471/145894618-f1b3ce57-ba71-4d3d-acd2-df79b9430252.png)
-
+#
 
 With media pipe, we can track fingers upper landmarks (4, 8, 12, 16,
 20) and middle landmarks (6, 10, 14, 19). Middle landmarks will be
 focus points. In fist (✊) shape upper landmarks comes down of focus
 point, which will be use for brick and vice versa.
-
+#
+<br>
 ![imgonline-com-ua-twotoone-l5BMxNCJ4gaUtrW](https://user-images.githubusercontent.com/75518471/145945315-8cb61f05-3115-4368-8d9e-7d61144a50c8.jpg)
-
+<br>
 #
 
 ![guesture partern indexing](https://user-images.githubusercontent.com/75518471/145945354-bc02657c-b53a-4296-85fe-02d801c8a0e9.jpg)
