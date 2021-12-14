@@ -72,10 +72,12 @@ Note: we will discuss it with our supervisor then will look forward
 
 ### Database:
 - Mysql databse
+- #
 
 ### Project boundary
 
-![image](https://user-images.githubusercontent.com/75518471/145896064-f3e44bcf-e460-49b9-9555-7a8400d2a31b.png)
+![Webp net-resizeimage (2)](https://user-images.githubusercontent.com/75518471/145946519-31dc6415-2218-4dc6-98d0-26d36548adf3.jpg)
+
 
 There are a lot of games are around, which can automate to hand gestures control but we elect “Hill Climb Car Racing Game” because it’s available and run on any Android and OS devices and fixable with version control. There are two functionalities, to control the game,“gas” and break of a car.
 
