@@ -102,21 +102,24 @@ point, which will be use for brick and vice versa.
 ![imgonline-com-ua-twotoone-l5BMxNCJ4gaUtrW](https://user-images.githubusercontent.com/75518471/145945315-8cb61f05-3115-4368-8d9e-7d61144a50c8.jpg)
 
 <br>
+
 #
 
 ![guesture partern indexing](https://user-images.githubusercontent.com/75518471/145945354-bc02657c-b53a-4296-85fe-02d801c8a0e9.jpg)
 
-
+#
 
 According to above diagram, we will convert images into binary digits with the help of Numpy library. We will feed that binary image to Tenserflow trained model to extract and recognize the hand gesture and convert it into keyboards commands.
 #
 
 ### Machine learning part:
+
 ![ml_pic](https://user-images.githubusercontent.com/75518471/145895785-a0c2e6c2-9f79-488a-888a-9c5630bdf056.png)
 
 
 Machine Learning model will trained on a lot of games data, each game score
 will feed to ML model to production score for next match.
+
 #
 
 ### Project Milestones:
