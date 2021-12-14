@@ -76,7 +76,7 @@ Note: we will discuss it with our supervisor then will look forward
 #
 
 ### Project boundary
-<br><br>
+<br>
 
 ![Webp net-resizeimage (2)](https://user-images.githubusercontent.com/75518471/145946519-31dc6415-2218-4dc6-98d0-26d36548adf3.jpg)
 
@@ -98,11 +98,11 @@ With media pipe, we can track fingers upper landmarks (4, 8, 12, 16,
 focus points. In fist (✊) shape upper landmarks comes down of focus
 point, which will be use for brick and vice versa.
 #
-<br> <br>
+<br> 
 
 ![imgonline-com-ua-twotoone-l5BMxNCJ4gaUtrW](https://user-images.githubusercontent.com/75518471/145945315-8cb61f05-3115-4368-8d9e-7d61144a50c8.jpg)
 
-<br>
+<br><br><br>
 
 #
 
