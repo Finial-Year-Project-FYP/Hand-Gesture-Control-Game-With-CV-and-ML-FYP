@@ -3,7 +3,8 @@
 ### SUPERVISOR: DR. ABDUL HAFEEZ
 ### Project Members: Muhammd ijaz & Muhmmad jawad
 
-![Control-gestures-of-the-Smart-TV](https://user-images.githubusercontent.com/75518471/145941264-00d4654b-222c-4f3f-ab3e-e439d868e813.png)
+![fig-5-full](https://user-images.githubusercontent.com/75518471/145942424-2eed386c-66f3-4f40-b63a-b10e8928989d.png)
+
 
 
 
