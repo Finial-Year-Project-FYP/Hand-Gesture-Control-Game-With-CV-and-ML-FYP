@@ -37,7 +37,7 @@ Besides that, dynamic physical interaction make the game more interesting and ef
 - Make the games more interesting
 - Dynamic physical interaction with pc
 - no need of extra hardware
-- less cost effective
+- cost effective
 
 ![Webp net-resizeimage](https://user-images.githubusercontent.com/75518471/145939994-86f1d4a6-fe0d-4bb5-bb03-74cc7c6fe99f.png)
 
@@ -131,7 +131,8 @@ will feed to ML model to production score for next match.
 -  Gesture recognitions model + deploy model on game
 -  Website + server + database for storing player data + thesis
 -  Total time taken and distance travel collect and store in database.
--  Collect data (Number of breaks, gas, total time taken, distance travel) and create and deploy machine learning model for next game score.
+-  Collect data (Number of breaks, gas, total time taken, distance travelled) 
+-  Create and deploy machine learning model for next game score.
 #
 
 ### Software Process Model (Incremental Model)
