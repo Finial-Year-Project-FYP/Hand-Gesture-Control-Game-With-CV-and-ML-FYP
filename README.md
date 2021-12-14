@@ -3,7 +3,8 @@
 ### SUPERVISOR: DR. ABDUL HAFEEZ
 ### Project Members: Muhammd ijaz & Muhmmad jawad
 
-![playgrams](https://user-images.githubusercontent.com/75518471/145896420-9a24c762-00e8-4e45-930a-6498000ce316.jpg)
+![Control-gestures-of-the-Smart-TV](https://user-images.githubusercontent.com/75518471/145941264-00d4654b-222c-4f3f-ab3e-e439d868e813.png)
+
 
 
 ### Market problem:
