@@ -72,7 +72,8 @@ Note: we will discuss it with our supervisor then will look forward
 
 ### Database:
 - Mysql databse
-- #
+
+#
 
 ### Project boundary
 
@@ -97,7 +98,9 @@ focus points. In fist (✊) shape upper landmarks comes down of focus
 point, which will be use for brick and vice versa.
 #
 <br>
+
 ![imgonline-com-ua-twotoone-l5BMxNCJ4gaUtrW](https://user-images.githubusercontent.com/75518471/145945315-8cb61f05-3115-4368-8d9e-7d61144a50c8.jpg)
+
 <br>
 #
 
