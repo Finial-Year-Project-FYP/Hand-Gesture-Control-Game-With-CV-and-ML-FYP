@@ -1,5 +1,6 @@
 # Real-Time Fingers Counter & Hand Gesture Recognizer
 
 
-![progress rep 2 (fingers counting model)](https://user-images.githubusercontent.com/75518471/148022059-deedc6db-1d35-4496-a05b-4c474b090234.gif)
+![progress rep 01 (fingers counting model)](https://user-images.githubusercontent.com/75518471/148027187-6c3201e7-bca2-4472-a268-bb492c46a3ef.gif)
+
 
