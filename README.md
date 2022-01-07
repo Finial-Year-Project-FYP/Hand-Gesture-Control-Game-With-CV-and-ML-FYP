@@ -1,4 +1,4 @@
-# Hand Gesture Control Game With CV & ML
+# Hand Gesture Control Game With CV & ML   :zap:
 
 ### Supervisor: Dr. Abdul Hafeez
 ### Project Members: Muhammd ijaz & Muhmmad jawad
