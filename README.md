@@ -25,7 +25,7 @@ Besides that, often typing mistakes make the reason of game over. Which is bad e
 
 
 #
-### Problem Solution:      :star2:   :unlock:
+### Problem Solution:     # :star2:   :unlock:
 We create dynamic web cam hand tracking system, with help of player could control the game dynamic with body motion (gestures), which can be perform on chair or in a standing position.it not only protect health from damage but as long as player play the game, will get physical exercise.
 
 Besides that, dynamic physical interaction make the game more interesting and effective.
