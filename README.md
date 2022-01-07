@@ -31,7 +31,7 @@ We create dynamic web cam hand tracking system, with help of player could contro
 Besides that, dynamic physical interaction make the game more interesting and effective.
 #
 
-#### Benefits:       :dizzy:    
+#### Benefits:  #:dizzy:    
 - Long time pc use but healthy
 - Get enjoyment and body exercise
 - Make the games more interesting
