@@ -5,7 +5,7 @@
 
 
 <br>
-#
+<hr>
 
 # Problem 
 Our model can count fingers and can show/print the number of fingers up on the screen, but can recognize the fingers. I.e. the 'V' sign, made by holding up the index and middle fingers. Our model does know about the number and name of fingers.
