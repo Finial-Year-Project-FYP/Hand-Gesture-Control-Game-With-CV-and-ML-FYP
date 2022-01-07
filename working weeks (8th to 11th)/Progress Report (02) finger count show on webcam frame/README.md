@@ -6,7 +6,7 @@
 
 #
 
-# Problem 
+# Problem :snail:
 Our model can count fingers and can show/print the number of fingers up on the screen, but can recognize the fingers. I.e. the 'V' sign, made by holding up the index and middle fingers. Our model does know about the number and name of fingers.
 
 We will train the model to recognize every finger. Which will lead us to feed some specific signs/gestures with some specific task/functionalities (gas and brake of a car) to control the game.
