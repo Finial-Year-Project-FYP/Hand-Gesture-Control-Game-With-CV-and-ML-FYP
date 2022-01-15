@@ -22,4 +22,8 @@ Goal of this gist is to recognize all fingers of our hand. We use the LANDMARKS 
 ![21936881](https://user-images.githubusercontent.com/75518471/149620356-bc868bee-cbb5-4bfe-b1d8-e41d9cdf330a.jpg)
 
 
-+ text in green
+#
+
+**Name:** ***Muhammd ijaz***
+**Reg:** ***0068***
+**Supervisor:** ***DR. ABDUL HAFEEZ***
