@@ -11,8 +11,8 @@ Goal of this gist is to recognize all fingers of our hand. We use the LANDMARKS 
 *For exmaple: thumb is open if the x value of landmark 3 and the x value of landmark 4 are less than x value of landmark 2 else it is close.*
 
 #
+![finger handmark](https://user-images.githubusercontent.com/75518471/149621188-e0f7405a-eb99-40ee-9c4a-c1be826b8783.jpg)
 
-![fingers name](https://user-images.githubusercontent.com/75518471/149620257-1c4033e1-eccc-494a-b707-7ff377e2d508.jpg)
 
 #
 
