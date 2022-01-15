@@ -24,6 +24,6 @@ Goal of this gist is to recognize all fingers of our hand. We use the LANDMARKS 
 
 #
 
-**Name:** ***Muhammd ijaz***
-**Reg:** ***0068***
-**Supervisor:** ***DR. ABDUL HAFEEZ***
+**Name:** ***Muhammd ijaz*** <br>
+**Reg:** ***0068*** <br>
+**Supervisor:** ***DR. ABDUL HAFEEZ*** <br>
