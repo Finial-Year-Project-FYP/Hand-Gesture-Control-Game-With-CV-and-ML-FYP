@@ -21,6 +21,10 @@ Goal of this gist is to recognize all fingers of our hand. We use the LANDMARKS 
 
 ![21936881](https://user-images.githubusercontent.com/75518471/149620356-bc868bee-cbb5-4bfe-b1d8-e41d9cdf330a.jpg)
 
+#
+
+![Screenshot (296)](https://user-images.githubusercontent.com/75518471/150074732-d680063c-34d9-416f-a800-4b9c55fae51f.png)
+
 
 #
 
