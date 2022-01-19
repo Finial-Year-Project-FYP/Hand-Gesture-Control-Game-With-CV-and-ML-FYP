@@ -23,7 +23,8 @@ Goal of this gist is to recognize all fingers of our hand. We use the LANDMARKS 
 
 #
 
-![Screenshot (296)](https://user-images.githubusercontent.com/75518471/150074732-d680063c-34d9-416f-a800-4b9c55fae51f.png)
+
+![Screenshot (297)](https://user-images.githubusercontent.com/75518471/150075272-d4cb6910-d584-4914-9806-cc7979556a1f.png)
 
 
 #
