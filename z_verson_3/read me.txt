@@ -1,7 +1,0 @@
-brack and data sent are readly...
-
-
-Now need to create database and store the user data.
-
-
-can see all the fingers are detecting and working...
