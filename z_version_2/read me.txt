@@ -1,0 +1,18 @@
+Now data can be enter by showing vector sign:
+
+
+line Number 59:
+# initializing list
+            test_list = fingers
+
+            res = [ test_list[1], test_list[2] ]
+            sec = [ test_list[0], test_list[3], test_list[4] ]
+
+
+lin number 97:
+if res == [1,1] and sec == [0,0,0]:
+                print('alhamdulillah')
+
+
+it detect the figher list, in that list item[1] and item[2] define the vector sign...
+
