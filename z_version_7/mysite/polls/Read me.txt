@@ -1,0 +1,6 @@
+=> what done ?
+    server, Number of breaks, database connect and database insertion all are clear...
+
+
+=> need to do (requirments):
+      timer start and sstop with hand tracking (code is present, just custamize it...) 

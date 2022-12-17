@@ -1,0 +1,15 @@
+Congratges:::::>
+-> machine leaning, computer vision and data base is done...
+
+points:
+	1) hand is detecting 
+	2) Brake counts
+	3) database insertion
+	4) retrive min,max and Avrage points
+
+
+Requirments:
+	1) Home Page
+	2) Details Page 
+	3) jsChart Page
+	4) prediction (if i get that much much bracks then my distance cover will be ) 
