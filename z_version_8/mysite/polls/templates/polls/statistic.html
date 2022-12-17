@@ -1,0 +1,12 @@
+{% extends 'polls/layout.html' %} {% block Content %} {% load static %}
+
+<div class="container-fluid mt-4">
+    <div class="row mt-2 ">
+        <img class="img-fluid"  src="{% static 'images/ml_pic.png' %}" alt="My image" style="width: 100%; height: 400px;">
+    </div>
+</div>
+
+
+    <h2 class="alert alert-warning text-center" style="  box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;">NEXT MATCH PREDICTION : {{ML_prediction}} Meter </h2>
+
+ {% endblock Content %}

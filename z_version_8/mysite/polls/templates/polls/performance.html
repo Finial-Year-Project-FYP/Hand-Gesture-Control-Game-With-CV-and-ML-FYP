@@ -1,0 +1,68 @@
+{% extends 'polls/layout.html' %} {% block Content %}
+
+<div class="container mt-3" style="  box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;">
+    <div class="row mt-2">
+
+        <h1 class="alert alert-warning text-center" style="  box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;">PLAYER PERFORMANCE</h1>
+
+        <!-- your brakes: {{max}} your brakes: {{min}} your brakes: {{avg}} <br><br> -->
+
+    </div>
+    <div class="container mt-2">
+        <div class="row">
+            <h2>Your Last Match Score: {{last_match}} </h2>
+        </div>
+    </div>
+
+    <div class="d-flex justify-content-end">
+        <div>
+            <a href="/history" class="btn btn-sm btn-warning fw-bold">CAREER RESULTS</a>
+        </div>
+    </div>
+    <div class="row">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th scope="col">#</th>
+                    <th scope="col">TIER ( RANK )</th>
+                    <th scope="col">PLAYER ID</th>
+                    <th scope="col">Min brakes</th>
+                    <th scope="col">Max brakes</th>
+                    <th scope="col">Avg brakes</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+
+                    <th scope="row">#</th>
+                    <th>SILVER</th>
+                    <th>18BCS0068</th>
+                    <th>{{min}} </th>
+                    <th>{{max}}</th>
+                    <th>{{avg}}</th>
+                </tr>
+
+            </tbody>
+        </table>
+
+
+
+
+    </div>
+</div>
+
+
+
+
+<!-- <form action="{% url 'statistic' %}">
+
+    {% csrf_token %} No of breaks: <br><br>
+    <input type="text" required name="breaks" value="{{mydata}}"> <br><br>
+
+    <button type="submit">Submit</button>
+
+    <br><br>
+
+</form> -->
+<!-- <a href="{% url 'statistic' %}">Click Prediction...</a> -->
+<br><br> {% endblock Content %}
